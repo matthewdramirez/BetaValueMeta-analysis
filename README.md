@@ -2,7 +2,7 @@
 
 This repository contains beta (β) value datasets and R code associated with the article "Meta-analysis of primary producer amino acid δ<sup>15</sup>N values and their influence on trophic position estimation," currently in review at Methods in Ecology and Evolution. 
 
-_Reference:_ Ramirez MD, Besser AC, Newsome SD, McMahon KM (in review) Meta-analysis of primary producer amino acid δ<sup>15</sup>N values and their influence on trophic position estimation. Methods in Ecology and Evolution XX, XXX-XXX. https://doi.org/
+_Reference:_ Ramirez MD, Besser AC, Newsome SD, McMahon KW (in review) Meta-analysis of primary producer amino acid δ<sup>15</sup>N values and their influence on trophic position estimation. Methods in Ecology and Evolution XX, XXX-XXX. https://doi.org/
 
 ### File Descriptions ###
 
